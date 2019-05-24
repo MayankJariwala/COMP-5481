@@ -4,7 +4,7 @@ import java.util.*;
  * N-Gram Problem - Lab 2
  *
  * @author Mayank Jariwala
- * @version 1.0.0
+ * @version 0.1.0
  */
 public class NGram {
 
